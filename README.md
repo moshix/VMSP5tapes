@@ -1,2 +1,2 @@
 # VMSP5tapes
-VM/SP r5 installation tapes
+VTAM, RSCS and FAL(ie tcpip) installation tapes for VM/SP R5
